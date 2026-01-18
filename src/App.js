@@ -38,7 +38,7 @@ function App() {
             <section className="section">
               <h2>Contact</h2>
               <div className="contact-links">
-                <a href="mailto:manishauh2018@gmail.com" className="contact-link">Email</a>
+                <a href="mailto:manishaug2018@gmail.com" className="contact-link">Email</a>
                 <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="contact-link">GitHub</a>
                 <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="contact-link">LinkedIn</a>
               </div>
