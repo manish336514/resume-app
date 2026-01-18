@@ -83,6 +83,51 @@
   font-size: 1rem;
 }
 
+.experience-list,
+.education-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.experience-item,
+.education-item {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  border-left: 3px solid #764ba2;
+}
+
+.experience-item h3,
+.education-item h3 {
+  color: #333;
+  font-size: 1.1rem;
+  margin: 0 0 8px 0;
+  font-weight: 600;
+}
+
+.company,
+.institution,
+.degree {
+  font-weight: 500;
+  color: #667eea;
+  margin: 4px 0;
+  font-size: 0.95rem;
+}
+
+.duration {
+  color: #999;
+  font-size: 0.9rem;
+  margin: 4px 0;
+  font-style: italic;
+}
+
+.location {
+  color: #666;
+  font-size: 0.9rem;
+  margin: 4px 0;
+}
+
 .skills-list {
   display: flex;
   flex-wrap: wrap;

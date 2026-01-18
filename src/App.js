@@ -36,11 +36,54 @@ function App() {
             </section>
 
             <section className="section">
+              <h2>Experience</h2>
+              <div className="experience-list">
+                <div className="experience-item">
+                  <h3>Advanced Software Engineer</h3>
+                  <p className="company">Honeywell · Full-time</p>
+                  <p className="location">Bengaluru, Karnataka, India</p>
+                </div>
+                
+    
+                
+                <div className="experience-item">
+                  <h3>Senior Software Engineer</h3>
+                  <p className="company">IBM India </p>
+                  <p className="location">Bangalore</p>
+                </div>
+            
+              
+                
+                <div className="experience-item">
+                  <h3>Project Engineer</h3>
+                  <p className="company">Wipro</p>
+                  <p className="location">India</p>
+                </div>
+              </div>
+            </section>
+
+            <section className="section">
+              <h2>Education</h2>
+              <div className="education-list">
+                <div className="education-item">
+                  <h3>Bachelor of Technology (B.Tech.)</h3>
+                  <p className="institution">IMS Engineering College</p>
+                  <p className="degree">Electronics and Communications Engineering</p>
+                </div>
+                
+                <div className="education-item">
+                  <h3>10+2</h3>
+                  <p className="institution">Kendriya Vidyalaya</p>
+                </div>
+              </div>
+            </section>
+
+            <section className="section">
               <h2>Contact</h2>
               <div className="contact-links">
-                <a href="mailto:manishaug2018@gmail.com" className="contact-link">Email</a>
+                <a href="mailto:manishauh2018@gmail.com" className="contact-link">Email</a>
                 <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="contact-link">GitHub</a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="contact-link">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/manish-kumar-yadav-6a520177/" target="_blank" rel="noopener noreferrer" className="contact-link">LinkedIn</a>
               </div>
             </section>
           </div>
